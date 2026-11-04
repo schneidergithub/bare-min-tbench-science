@@ -27,8 +27,10 @@ Fetching the open-access source articles is required and permitted. Do not use p
 
 You have 28800 seconds to complete this task. Do not cheat by using online solutions or hints specific to this task.
 
-Grading: row order is irrelevant; each of the three outcomes is required
-exactly once. No extra or duplicate rows. Sample sizes must match exactly.
+Grading: row order is irrelevant. Every required reference outcome must appear
+exactly once. Optional reference outcomes may be omitted, but must match when
+submitted. Excluded outcomes, unknown outcomes, and duplicate rows fail.
+Sample sizes must match exactly.
 Means and standard deviations must match the trusted reference within
 absolute tolerance 0.000001; d within 0.0001. Nonfinite values fail.
 All checks pass => reward 1.0; otherwise reward 0.0.
