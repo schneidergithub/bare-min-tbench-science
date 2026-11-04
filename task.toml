@@ -1,0 +1,16 @@
+version = "1.0"
+
+[metadata]
+author_name = "schneidergithub"
+difficulty = "easy"
+category = "life-sciences"
+tags = ["science", "csv", "verification", "proof-of-concept"]
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 600.0
+
+[environment]
+build_timeout_sec = 600.0
